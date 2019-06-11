@@ -1,0 +1,9 @@
+---
+name: Documentation Issue
+about: Missing, misleading or incomplete documentation issues 
+
+---
+
+**Documentation issue**
+<!-- Before opening a new issue, please make sure you already checked -->
+<!-- our exhaustive wiki documentation at https://github.com/nosto/nosto-magento/wiki -->
